@@ -3,5 +3,4 @@ def square_array(numbers)
   while count < numbers.length do
     numbers.index ** 2
   end
-  square_array(numbers)
 end
